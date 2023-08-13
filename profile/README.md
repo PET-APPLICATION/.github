@@ -1,6 +1,7 @@
 # PET APPLICATION 🐈 🐇 🐹🐕🦔
-The intention of this application will be a service that will handle pet rescue and alert about missing pets near the user. 
-
+## The goal 🎯: Users can find their pets quickly.
+## The purpose ⚡: To support the user who has lost his pet.
+## The mission 🎺: Centralize and integrate the number of lost and found pets in a single platform for community use.
 ### Built with: 🛠️💻
 - Backend
   - [Java 11 ☕](https://www.oracle.com/java/technologies/javase/11-relnote-issues.html)

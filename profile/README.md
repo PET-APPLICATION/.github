@@ -1,9 +1,9 @@
 # PET APPLICATION 🐈 🐇 🐹🐕🦔
-### The goal 🎯: Users can find their pets quickly.
-### The purpose ⚡: To support the user who has lost his pet.
-### The mission 🎺: Centralize and integrate the number of lost and found pets in a single platform for community use.
+### The goal 🎯 Users can find their pets quickly.
+### The purpose ⚡ To support the user who has lost his pet.
+### The mission 🎺 Centralize and integrate the number of lost and found pets in a single platform for community use.
 
-## Built with: 🛠️💻
+## Built with 🛠️💻
 - Backend
   - [Java 11 ☕](https://www.oracle.com/java/technologies/javase/11-relnote-issues.html)
   - [Maven 4.0.0](https://maven.apache.org/ref/4-LATEST/)
@@ -11,8 +11,6 @@
   - [Lombok 🌶️](https://projectlombok.org/features/)
 - Frontend
   - React Native   
-- UI
-  - Figma   
 
 ## Links 🔗
 - [FIGMA](https://www.figma.com/files/team/899368568662594186/PET-APPLICATION?fuid=899368560089925632)

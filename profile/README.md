@@ -27,5 +27,5 @@
 - [Magali Olmedo UI👩‍💻](https://github.com/MagaliOlmedo)
   - [LinkedIn](https://www.linkedin.com/in/dayanamagaliolmedo/)
  
-# Invite a Beer 🍺 or a coffee ☕ to someone on the project.
+# Invite a 🍺 or a ☕ to someone on the project.
 - [Cafesito ☕](https://cafecito.app/pet-application)

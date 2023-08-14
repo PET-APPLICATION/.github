@@ -17,12 +17,12 @@
 - [DRIVE](https://drive.google.com/drive/u/0/folders/1zRalqlzc38YuqJikEXmUCbkR7372HMDg)
 
 ## Authors 🖋️
-- [Ivan Graciarena Software Engineer👨‍💻](https://github.com/IGraciarena)
+- [Ivan Graciarena Software Engineer 👨‍💻](https://github.com/IGraciarena)
   - [LinkedIn](https://www.linkedin.com/in/ivan-graciarena/)
   - [Twitter 🐦](https://www.twitter.com/IGraciarena)
-- [Francisco Busleiman Software Engineer👨‍💻](https://github.com/franbusleiman)
+- [Francisco Busleiman Software Engineer 👨‍💻](https://github.com/franbusleiman)
   - [LinkedIn](https://www.linkedin.com/in/franciscobusleiman/)
-- [Magali Olmedo UI👩‍💻](https://github.com/MagaliOlmedo)
+- [Magali Olmedo UI 👩‍💻](https://github.com/MagaliOlmedo)
   - [LinkedIn](https://www.linkedin.com/in/dayanamagaliolmedo/)
  
 # Invite a 🍺 or a ☕ to someone on the project.
